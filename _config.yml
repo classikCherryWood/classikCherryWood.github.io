@@ -14,7 +14,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: J C classikCherryWood # the main title
+title: J C  # the main title
 
 tagline: my testing blog # it will display as the subtitle
 
@@ -29,7 +29,7 @@ github:
   username: classikCherrywood # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: clasikcherywood # change to your Twitter username
 
 social:
   # Change to your full name.
